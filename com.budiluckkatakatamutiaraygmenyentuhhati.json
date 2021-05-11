@@ -1,0 +1,281 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":10,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Mutiara 1",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Mutiara 2",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Salah satu perlindungan dari kekecewaan adalah memiliki kesibukan. - Alain de Botton"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Ketika kamu merasa sangat terluka atas sikap orang lain, maka bedoalah kepada Allah agar kamu tidak berbuat seperti apa yang telah dilakukannya."
+      },
+      {
+         "id":3,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"“Bukan hal yang mudah melepaskan atau mempertahankan apa yang semula baik tiba-tiba berubah drastis menjadi amat buruk."
+      },
+      {
+         "id":4,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Sakit sekali rasanya ketika Anda sudah melakukan yang terbaik, tapi ternyata masih tidak cukup."
+      },
+      {
+         "id":5,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Setiap kali orang bertanya padaku apakah aku baik-baik saja, hal ini semakin mengingatkan bahwa aku tidak baik-baik saja."
+      },
+      {
+         "id":6,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Janga khawatir akan hari esok kesusahan hari ini cukuplah hari ini."
+      },
+      {
+         "id":7,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Orang menangis bukan karena mereka lemah. Tapi, mereka menangis karena telah berusaha kuat dalam waktu yang lama. - Johnny Depp"
+      },
+      {
+         "id":8,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Proses pendewasaan dalam hidup ini adalah melalui ujian-ujian yang terjadi dalam hidupmu."
+      },
+      {
+         "id":9,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Bagiku, tidur bukanlah sekadar melepas lelah, melainkan sebuah pelarian."
+      },
+      {
+         "id":10,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Aku tidak tahu apakah tempatku benar-benar di sini. Aku tidak punya seorangpun untuk diajak bicara."
+      },
+      {
+         "id":11,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Hidup bukan tentang menemukan dirimu sendiri Hidup adalah tentang menciptakan diri sendiri. - George Bernard Shaw "
+      },
+      {
+         "id":12,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Kehidupan yang baik adalah sebuah proses, bukan suatu keadaan yang ada dengan sendirinyaKehidupan itu sendiri adalah arah, bukan tujuan. - Carl Rogers "
+      },
+      {
+         "id":13,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Bersiaplah dalam kesunyian dan biarkan kesuksesanmu membuat kebisingan."
+      },
+      {
+         "id":14,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Berubah memang berat pada awalnya, kacau di tengah-tengahnya, dan sangat indah pada akhirnya. - Robin Sharma "
+      },
+      {
+         "id":15,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Mulailah dari mana kamu beradaGunakan apa yang kamu milikiLakukan apa yang kamu bisa."
+      },
+      {
+         "id":16,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Sebab hidup terlalu singkat untuk membiarkan orang lain menentukan apa yang membuat kita bahagia. - Ernest Prakasa "
+      },
+      {
+         "id":17,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Sukses adalah menyukai diri sendiri, menyukai apa yang kamu lakukan, dan menyukai bagaimana kamu melakukannya."
+      },
+      {
+         "id":18,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Waktumu terbatas, jadi jangan sia-siakan untuk menjalani kehidupan orang lain."
+      },
+      {
+         "id":19,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Kamu harus melakukan hal yang kamu pikir tidak bisa kamu lakukan."
+      },
+      {
+         "id":20,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Sukses itu belum final, kegagalan tidaklah fatalSemua itu adalah keberanian untuk melanjutkan yang diperhitungkan."
+      },
+      {
+         "id":21,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Jangan pernah menundukkan kepalaSelalu angkat tinggi-tinggiLihatlah dunia langsung di mata."
+      },
+      {
+         "id":22,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Tidak peduli apa yang kamu alami, selalu ada cahaya di ujung terowongan."
+      },
+      {
+         "id":23,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Ketika seseorang mengatakan kamu tidak bisa melakukannya, lakukan dua kali dan ambil gambar sebagai bukti."
+      },
+      {
+         "id":24,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Hidup bukan tentang mendapatkan dan memiliki, ini tentang memberi dan menjadi sesuatu."
+      },
+      {
+         "id":25,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Keraguan membunuh lebih banyak mimpi daripada kegagalan."
+      },
+      {
+         "id":26,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Setiap orang punya jatah untuk gagalHabiskan jatah gagalmu, ketika kamu masih muda."
+      },
+      {
+         "id":27,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Dunia ini penuh dengan orang-orang baikJika kamu tidak dapat menemukannya, jadilah salah satunya."
+      },
+      {
+         "id":28,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Nilaimu tidak berkurang berdasarkan ketidakmampuan seseorang untuk melihat nilaimu."
+      },
+      {
+         "id":29,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Kemana pun kamu pergi, lakukanlah dengan segenap hati."
+      },
+      {
+         "id":30,
+         "nama_cat":"Status Kata Mutiara 1",
+         "deskripsi":"Setiap hari adalah kesempatan kedua."
+      },
+      {
+         "id":31,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Jangan hanya bermalas-malasan, jadikan hidup kita lebih bermakna dengan bekerja."
+      },
+      {
+         "id":32,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Semua manusia memiliki kesempatan yang sama, jadi tetap semangat untuk melakukan pekerjaan sebaik mungkin."
+      },
+      {
+         "id":33,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Mimpi tidak berguna kecuali kamu mewujudkannya."
+      },
+      {
+         "id":34,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Kesuksesan bukanlah sebuah kebetulanIa adalah kerja keras, ketekunan, belajar, berkorban, dan yang paling penting, mencintai apa yang kamu lakukan."
+      },
+      {
+         "id":35,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Hidup ini singkat, berubahlah ketika kamu punya kesempatanKarena suatu saat ketika kamu ingin berubah, kamu tak punya kesempatan."
+      },
+      {
+         "id":36,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Nikmatilah hal-hal kecil dalam hidup, karena suatu hari kamu akan melihat ke belakang dan menyadari itu adalah hal-hal besar."
+      },
+      {
+         "id":37,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Kebahagiaan bukanlah sesuatu yang sudah jadiItu berasal dari tindakanmu sendiri."
+      },
+      {
+         "id":38,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Saat kita masih diberi kesempatan bangun di pagi hari, itu berarti Tuhan masih memberi kesempatan kepada kita untuk melakukan pekerjaan yang harus kita lakukan."
+      },
+      {
+         "id":39,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Hidup itu membutuhkan perjuangan, karena nggak ada satu hal pun yg bisa sukses tanpa sebuah perjuangan."
+      },
+      {
+         "id":40,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Kesuksesan itu seperti menjalankan rodaTerasa berat pada awal mendorong roda, hanya saja menjadi ringan setelah roda tersebut berjalan."
+      },
+      {
+         "id":41,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Keberhasilan dalam kehidupan hanya bisa didapatkan ketika seseorang mau berjuang dengan keras."
+      },
+      {
+         "id":42,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Kita adalah apa yang kita kerjakan berulang-ulangOleh sebab itu, keunggulan bukanlah suatu perbuatan, melainkan sebuah kebiasaan."
+      },
+      {
+         "id":43,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Dalam duka pasti ada sukaJangan menyerah karena dengan putus asa kita tidak lebih dari pecundang."
+      },
+      {
+         "id":44,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Hidup adalah pertanyaan dan bagaimana kita menjalaninya adalah jawaban."
+      },
+      {
+         "id":45,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Bersyukur atas keberhasilan itu sudah biasa, namun bersyukur atas kegagalan itu baru luar biasa."
+      },
+      {
+         "id":46,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Untuk mendapatkan apa yang diinginkan, kau harus bersabar dengan apa yang kau benci. - Imam Ghazali Hidup itu membutuhkan perjuangan, karena gak ada satu hal pun yang bisa sukses tanpa sebuah perjuangan."
+      },
+      {
+         "id":47,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Saat kita sabar dan tabah atas segala penghinaan dan kata-kata manusiaSaat itulah Allah akan berikan kita kemuliaan."
+      },
+      {
+         "id":48,
+         "nama_cat":"Status Kata Mutiara 2",
+         "deskripsi":"Cara terbaik untuk membayar momen indah adalah dengan menikmatinya."
+      }
+   ]
+}
