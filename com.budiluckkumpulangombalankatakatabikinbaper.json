@@ -1,0 +1,656 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":10,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Kata Kata Gombal 1",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/icongombalan-1.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Kata Kata Gombal 2",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/icongombalan-1.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Kata Kata Gombal 3",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/icongombalan-1.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku harap kamu tidak menanyakan hal terindah yang pernah singgah di kehidupanku, karena jawaban nya adalah kamu."
+      },
+      {
+         "id":2,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Hal yang paling aku suka yaitu ngemil, namun tau gak ngemil apa yang paling aku suka? ngemilikin kamu sepenuhnya."
+      },
+      {
+         "id":3,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Seandainya sekarang adalah tanggal 28 oktober 1928, aku akan ubah naskah sumpah pemuda menjadi sumpah aku cinta kamu."
+      },
+      {
+         "id":4,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku gak pernah merasakan ketakutan sedikit pun ketika berada didekat kamu, karena kamulah kekuatanku."
+      },
+      {
+         "id":5,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kamu tahu apa persamaan rasa sayangku ke kamu dengan matahari? Persamaannya adalah sama-sama terbit setiap hari dan hanya akan berakhir sampai kiamat."
+      },
+      {
+         "id":6,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalau bus kota jauh dekat ongkosnya sama, tapi cinta ini dekat-dekat makin saling cinta."
+      },
+      {
+         "id":7,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika saja aku harus mengorbankan semua kebahagiaanku hanya untuk sekedar membuat kamu tertawaAku rela."
+      },
+      {
+         "id":8,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Anjing menggonggong kafilah berlalu, tiap hari bengong mikirin kamu melulu."
+      },
+      {
+         "id":9,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalau aku jadi wakil rakyat kayaknya bakalan gagal dehGimana aku mau mikiran rakyat kalau yang ada dipikiran aku itu cuman ada kamu."
+      },
+      {
+         "id":10,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Satu tambah satu sama dengan duaAku sama kamu sama dengan saling cinta,."
+      },
+      {
+         "id":11,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalo kita beda kartu GSM, itu gak masalah asalkan nantinya nama kita berdua ada di kartu Keluarga yang sama."
+      },
+      {
+         "id":12,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Masalah yang selalu sulit untukku membuat mu mencintai ku, tapi lebih sulit memaksa hatiku untuk berhenti memikirkan dirimu."
+      },
+      {
+         "id":13,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku tak pernah berjanji untuk sebuah perasaan, namun aku berusaha berjanji untuk sebuah kesetiaan."
+      },
+      {
+         "id":14,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku sangat berharap kamu tau, kalau aku tidak pernah menyesali cintaku untuk mu, karena bagiku memiliki kamu sudah cukup bagi ku."
+      },
+      {
+         "id":15,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jangankan memilikimu, mendengar kamu kentut aja aku sudah bahagia."
+      },
+      {
+         "id":16,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku mohon jangan jalan-jalan terus di pikiranku, duduk yang manis di hatiku saja."
+      },
+      {
+         "id":17,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Berulang tahun memang indah, namun bagiku yang lebih indah jika berulang kali bersamamu ."
+      },
+      {
+         "id":18,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Napas aku kok sesek banget ya?, karena separuh nafasku ada di kamu."
+      },
+      {
+         "id":19,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika ada seseorang lebih memilih pergi meninggalkan kamu, jangan pernah memohon padanya untuk tetap bertahanKarena jika dia cinta, dia tak akan mau pergi."
+      },
+      {
+         "id":20,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jangan diam aja dong, memang diam itu emas, tapi ketahuilah suara kamu itu seperti berlian."
+      },
+      {
+         "id":21,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kesasar itu serasa rugi banget, namun aku nggak merasa rugi karena cintaku sudah kesasar ke hatimu."
+      },
+      {
+         "id":22,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku ingin bersamamu hanya dalam 2 waktu, yaitu sekarang dan selamanya."
+      },
+      {
+         "id":23,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika kau menghitung jumlah seluruh ikan yang ada di laut, ditambah lagi jumlah seluruh bintang yang ada dilangit dan jumlah seluruh rumput yang ada di daratJumlah itu sama seperti jumlah rasa rindu terhadap dirimu."
+      },
+      {
+         "id":24,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Biasanya orang yang lagi nyasar itu rugi ya, tapi tau gak? Aku gak merasa rugi sebab cintaku sudah nyasar ke hati bidadari."
+      },
+      {
+         "id":25,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Ada 3 hal yang paling aku sukai di dunia ini, yaitu Matahari, Bulan dan KamuMatahari untuk siang hari, Bulan untuk malam hari dan Kamu untuk selamanya dihatiku."
+      },
+      {
+         "id":26,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Sayang, kamu itu seperti garam di lautan, tidak terlihat namun akan selalu ada untuk selamanya."
+      },
+      {
+         "id":27,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Seandainya sekarang adalah tanggal 28 oktober 1928, aku akan ubah naskah sumpah pemuda menjadi sumpah aku cinta kamu."
+      },
+      {
+         "id":28,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Gimana kalo kita berdua jadi komplotan penjahat: Aku mencuri hatimu, dan kamu mencuri hatiku?"
+      },
+      {
+         "id":29,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku gak pernah merasakan ketakutan sedikit pun ketika berada di dekat kamu, karena kamulah kekuatanku."
+      },
+      {
+         "id":30,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kamu tahu apa persamaan rasa sayangku ke kamu dengan matahari? Persamaannya adalah sama-sama terbit setiap hari dan hanya akan berakhir sampai kiamat."
+      },
+      {
+         "id":31,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalau bus kota jauh dekat ongkosnya sama, tapi cinta ini dekat-dekat makin saling cinta."
+      },
+      {
+         "id":32,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika saja aku harus mengorbankan semua kebahagiaanku hanya untuk sekadar membuat kamu tertawaAku rela."
+      },
+      {
+         "id":33,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Anjing menggonggong kafilah berlalu, aku setiap hari bengong mikirin kamu melulu."
+      },
+      {
+         "id":34,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalau aku jadi wakil rakyat kayaknya bakalan gagal dehGimana aku mau mikiran rakyat kalau yang ada di pikiran aku itu cuman ada kamu."
+      },
+      {
+         "id":35,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Satu tambah satu sama dengan duaAku sama kamu sama dengan saling cinta."
+      },
+      {
+         "id":36,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kalau kita beda kartu GSM, itu gak masalah asalkan nantinya nama kita berdua ada di kartu keluarga yang sama."
+      },
+      {
+         "id":37,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Masalah yang selalu sulit untukku membuatmu mencintaiku, tapi lebih sulit memaksa hatiku untuk berhenti memikirkan dirimu."
+      },
+      {
+         "id":38,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku tak pernah berjanji untuk sebuah perasaan, namun aku berusaha berjanji untuk sebuah kesetiaan."
+      },
+      {
+         "id":39,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku sangat berharap kamu tau, kalau aku tidak pernah menyesali cintaku untuk mu, karena bagiku memiliki kamu sudah cukup bagi ku."
+      },
+      {
+         "id":40,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jangankan memilikimu, mendengar kamu kentut aja aku sudah bahagia."
+      },
+      {
+         "id":41,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku mohon jangan jalan-jalan terus di pikiranku, duduk yang manis di hatiku saja."
+      },
+      {
+         "id":42,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Berulang tahun memang indah, namun bagiku yang lebih indah jika berulang kali bersamamu."
+      },
+      {
+         "id":43,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Napas aku kok sesek banget ya? karena separuh nafasku ada di kamu."
+      },
+      {
+         "id":44,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika ada seseorang lebih memilih pergi meninggalkan kamu, jangan pernah memohon padanya untuk tetap bertahanKarena jika dia cinta, dia tak akan mau pergi."
+      },
+      {
+         "id":45,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jangan diam aja dong, memang diam itu emas, tapi ketahuilah suara kamu itu seperti berlian."
+      },
+      {
+         "id":46,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Kesasar itu serasa rugi banget, namun aku nggak merasa rugi karena cintaku sudah kesasar ke hatimu."
+      },
+      {
+         "id":47,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Jika aku bisa jadi bagian dari dirimu, aku mau jadi air matamu, yang tersimpan di hatimu, lahir dari matamu, hidup di pipimu, dan mati di bibirmu."
+      },
+      {
+         "id":48,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Aku ingin bersamamu hanya dalam 2 waktu, yaitu sekarang dan selamanya."
+      },
+      {
+         "id":49,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Biasanya orang yang lagi nyasar itu rugi ya, tapi tau enggak? Aku enggak merasa rugi sebab cintaku sudah nyasar ke hati bidadari."
+      },
+      {
+         "id":50,
+         "nama_cat":"Kata Kata Gombal 1",
+         "deskripsi":"Ada 3 hal yang paling aku sukai di dunia ini, yaitu matahari, bulan dan kamuMatahari untuk siang hari, bulan untuk malam hari dan kamu untuk selamanya dihatiku."
+      },
+      {
+         "id":51,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Sayang, kamu itu seperti garam di lautan, tidak terlihat namun akan selalu ada untuk selamanya."
+      },
+      {
+         "id":52,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Sekarang aku gendutan engak sih? Kamu tau engak kenapa ? Soalnya kamu sudah mengembangkan cinta yang banyak di hatiku."
+      },
+      {
+         "id":53,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Ya Tuhan, jika dia jodohku, menangkanlah tender pembangunan proyek menara cintaku di hatinya."
+      },
+      {
+         "id":54,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu tau enggak? Kenapa kalau aku menghafal lihatnya ke atas? soalnya kalau merem langsung kebayang wajahmu."
+      },
+      {
+         "id":55,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Cita-citaku dulu pengen jadi dokter, tapi setelah mengenalmu, berubah jadi ingin membahagiakanmu."
+      },
+      {
+         "id":56,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Enak ya jadi kamu, kalau mau lihat bidadari, tinggal lihat di kaca."
+      },
+      {
+         "id":57,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku rela jadi abang nasi goreng asalkan setiap malam aku bisa lewat depan rumah kamu."
+      },
+      {
+         "id":58,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu."
+      },
+      {
+         "id":59,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kalau kamu jadi senar gitar, aku nggak mau jadi gitarisnya karena aku nggak mau mutusin kamu."
+      },
+      {
+         "id":60,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Sayangku, tadi pagi aku gak bisa makan karena merindukanmuSiangnya juga nggak makan karena mikirin kamuDan malamnya aku juga nggak bisa tidur karena kelaparan."
+      },
+      {
+         "id":61,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku hanya ingin hidup cukupCukup lihat senyummu setiap hari."
+      },
+      {
+         "id":62,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu tau enggak, aku seperti mentega, dan kamu seperti wajan panasSoalnya pas lihat muka kamu, aku jadi meleleh."
+      },
+      {
+         "id":63,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku sudah siap kalau Senin harus bangun pagi, apalagi bangun rumah tangga sama kamu."
+      },
+      {
+         "id":64,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kemaren aku lolos audisi BoybandTapi aku batalin soalnya aku lebih suka jadi Boyfriend kamu."
+      },
+      {
+         "id":65,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Biarpun kamu gendut, tapi kamu tetep muat kok masuk di hatiku."
+      },
+      {
+         "id":66,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Sedalam-dalamnya Palung Mariana, lebih dalam perasaan cintaku padamu."
+      },
+      {
+         "id":67,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu itu kayak restoran PadangSederhana namun berkualitas."
+      },
+      {
+         "id":68,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku gak perlu wanita yang sholeha, tapi bagaimana menuntun wanita yang aku cintai menjadi seorang yang sholehah."
+      },
+      {
+         "id":69,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku tidak minta bintang atau bulan kepadamuCukup temani aku selamanya di bawah cahayanya."
+      },
+      {
+         "id":70,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Gimana kalo kita berdua jadi komplotan penjahat: Aku mencuri hatimu, dan kamu mencuri hatiku?"
+      },
+      {
+         "id":71,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku gak perlu wanita yang cantik, tapi bagaimana aku menyanjung wanita yang aku cintai seperti wanita yang paling cantik di bumi ini."
+      },
+      {
+         "id":72,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku pengen bersamamu cuma pada dua waktu: SEKARANG dan SELAMANYA."
+      },
+      {
+         "id":73,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu tuh bikin aku ga bisa tidur tau ga? Soalnya kamu selalu ada dibayang-bayang aku terus."
+      },
+      {
+         "id":74,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Jika aku bisa jadi bagian dari dirimu,aku mau jadi air matamu,yang tersimpan di hatimu, lahir dari matamu, hidup di pipimu, dan mati di bibirmu."
+      },
+      {
+         "id":75,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Papa kamu pasti kerja di apotik ya? | kenapa bang? | karena cuma kamu obat sakit hatiku."
+      },
+      {
+         "id":76,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku selalu berusaha tak menangis karenamu, karena setiap butir yang jatuh, hanya makin mengingatkan, betapa aku tak bisa melepaskanmu."
+      },
+      {
+         "id":77,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Mau nanya jalan nihJalan ke hatimu lewat mana ya?"
+      },
+      {
+         "id":78,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Andai sebuah bintang akan jatuh setiap kali aku mengingatmu, bulan pasti protesSoalnya dia bakal sendirian di angkasa."
+      },
+      {
+         "id":79,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Andai kamu gawang aku bolanyaAku rela ditendang orang-orang demi aku dapat bersamamu."
+      },
+      {
+         "id":80,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Dingin malam ini menusuk tulangKesendirian adalah kesepianMaukah kau jadi selimut penghangat diriku?"
+      },
+      {
+         "id":81,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Keindahan Borobudur keajaiban dunia, keindahan kamu keajaiban cinta."
+      },
+      {
+         "id":82,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku ingin mengaku dosaJangan pernah marah yaMaafkan sebelumnyaTadi malam aku mimpiin kamu jadi pacarkuSetelah bangun, akankah mimpiku jadi nyata?"
+      },
+      {
+         "id":83,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Boleh nggak sih aku bilang aku cinta kamu hari ini? Kalau besok gimana? Besok lusa? Besoknya besok lusa? Gimana kalau selamanya?"
+      },
+      {
+         "id":84,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Orangtuamu pengrajin bantal yah? Karena terasa nyaman jika di dekatmu."
+      },
+      {
+         "id":85,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Jika malam adalah jeruji gelap yang menjadi sangkar, saya ingin terjebak selamanya di sana bersamamu."
+      },
+      {
+         "id":86,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Sekarang aku gendutan gak sih? Kamu tau gak kenapa ? Soalnya kamu sudah mengembangkan cinta yang banyak di hatiku."
+      },
+      {
+         "id":87,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Di atas langit masih ada langitDi bawah langit masih ada aku yang mencintai kamu."
+      },
+      {
+         "id":88,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Tau tidak kenapa malam ini tidak ada bintang? Soalnya bintangnya pindah semua ke matamu?"
+      },
+      {
+         "id":89,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku mencintaimu! Jika kamu benci aku, panah saja dirikuTapi jangan di hatiku ya, karena di situ kamu berada."
+      },
+      {
+         "id":90,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu tahu gak sih? AKu tuh capek bangetCapek nahan kangen terus sama kamu."
+      },
+      {
+         "id":91,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Katanya kalau sering hujan itu bisa membuat seseorang terhanyut, kalau aku sekarang sedang terhanyut di dalam cintamu."
+      },
+      {
+         "id":92,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku harap kamu jangan pergi lagi ya? karena, bila aku berpisah dengamu sedetik saja bagaikan 1000 tahun rasanya."
+      },
+      {
+         "id":93,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Aku sih gak butuh week end, yang aku butuhkan hanyalah love you till the end."
+      },
+      {
+         "id":94,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Emak kamu tukang Gado gado ya?, kok tau sih?, Pantesan saja kamu telah mencampur adukan perasaanku"
+      },
+      {
+         "id":95,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Walau hari ini cerah, tetapi tanpa kamu disisiku sama saja berselimutkan awan gelap di hati ini"
+      },
+      {
+         "id":96,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kamu ngizinin aku kangen sehari berapa kali neng? Abang takut over dosis."
+      },
+      {
+         "id":97,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Cinta aku ke kamu tuh bagaikan hutang, awalnya kecil, lama-lama didiemin malah tambah gede."
+      },
+      {
+         "id":98,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Berulang tahun adalah hari yang indahTapih akin lebih indah kalo udah berulang-ulang kali bersama kamu."
+      },
+      {
+         "id":99,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Melihatmu itu seperti melihat kamera, bawaannya aku pengen senyum terus."
+      },
+      {
+         "id":100,
+         "nama_cat":"Kata Kata Gombal 2",
+         "deskripsi":"Kata orang kalau sering hujan akan terhanyut, tapih kalau aku sekarang ngerasa terhanyuk akan belaian cintamu."
+      },
+      {
+         "id":101,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Persamaan kamu dengan Mobile Legend adalah sama-sama gak bisa ditinggalin."
+      },
+      {
+         "id":102,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Tau gak??? kenapa saya lebih suka apel dibandingkan anggur.Kenapa?? soalnya saya lebih suka ngapelin kamu, di bandingkan nganggurin kamu."
+      },
+      {
+         "id":103,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Jangan pernah kaget jika suatu saat kamu bangun ada sebuah gunung didepan rumahmuItu pastu gunung rinduku."
+      },
+      {
+         "id":104,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Kamu gak di cariin orang tua kamu apa?? Kok setiap malam selalu hadir dalam mimpiku sih."
+      },
+      {
+         "id":105,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Kamu tahu gak? Aku tanpamu itu seperti ambulance tanpa uwiw-uwiw."
+      },
+      {
+         "id":106,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Jika sudah didekatmu rasanya seperti ingin mengehentikan waktu, karena saat bersamamu waktu terasa cepat berlalu"
+      },
+      {
+         "id":107,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Cintaku ke kamu itu seperti kuku, meskipun selalu dipotong namun tetep tumbuh terus."
+      },
+      {
+         "id":108,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Jika ada puisi terindah yang pernah ku rangkai, pastilah ada nama kamu di dalam nya."
+      },
+      {
+         "id":109,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Jangan terlalu PD aku rindu kamu cuma sedikit kok, sedikit berlebihan."
+      },
+      {
+         "id":110,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Coba kamu lihat matahari terbenam, dia begitu indah, namun keindahan dia tak dapat menandingi keindahan dirimu."
+      },
+      {
+         "id":111,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Ada 3 hal di duinia ini yang tidak bisa kuhitung, jumlah bintang di langit, ikan di laut dan cintaku padamu."
+      },
+      {
+         "id":112,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Bapak kmu kerja di operator sellular ya?, Koq kmu tau?, Karena sinyal cinta kmu begitu kuat di hati ku"
+      },
+      {
+         "id":113,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Jadilah apa yang kamu inginkan, karen kamu hanya memiliki satu kehidupan dan satu kesempatan saja untuk melakukan hal-hal yang ingin kamu lakukan."
+      },
+      {
+         "id":114,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Tidak ada alasan untuk melupakan seorang sahabat lama ketika ia sedang tidak memiliki apa-apa, hargai persahabataan."
+      },
+      {
+         "id":115,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Sungguh sangat indah ciptaan tuhan, samapai begitu sangat terpesona aku melihat senyum manismu itu sayang."
+      },
+      {
+         "id":116,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Aku sangat berharap kamu tau, kalau aku tidak pernah menyesali cintaku untuk mu, karena bagiku memiliki kamu sudah cukup bagi ku."
+      },
+      {
+         "id":117,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Tahun ini tahun kabisat yg muncul hanya 4 tahun sekali, kalo cintaku ke kamu selalu muncul setiap detik loh"
+      },
+      {
+         "id":118,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Sejak kenal kamu, bawaanya pengen belajar terus dehBelajar jadi yang terbaik buat kamu."
+      },
+      {
+         "id":119,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Aku sudah siap kalo Senin harus bangun pagi, apalagi bangun rumah tangga sama kamu."
+      },
+      {
+         "id":120,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Aku gak minta lebih dari kamu, karena bisa mengenal mu adalah hal yang terindah dalam hidup ku."
+      },
+      {
+         "id":121,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Aku harap kamu jangan pergi lagi ya? karena, bila aku berpisah dengamu sedetik saja bagaikan 1000 tahun rasanya."
+      },
+      {
+         "id":122,
+         "nama_cat":"Kata Kata Gombal 3",
+         "deskripsi":"Bolehkah aku tegaskan kepadamu satu kali lagi bahwa aku begitu merasa beruntung memiliki kamu."
+      }
+   ]
+}

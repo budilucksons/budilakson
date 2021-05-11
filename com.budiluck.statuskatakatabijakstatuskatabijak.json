@@ -1,0 +1,506 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":10,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Bijak 1",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconkatabijak.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Bijak 2",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconkatabijak.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hidup bukanlah tentang menemukan jati diri, melainkan tentang bagaimana membangun jati diri."
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Saya telah menyadari bahwa jika Anda mencintai kehidupan, maka Anda akan dicintai kembali oleh kehidupan."
+      },
+      {
+         "id":3,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kita semua memiliki dua kehidupan. Kehidupan kedua dimulai saat kita menyadari bahwa kita sesungguhnya hanya punya satu kehidupan."
+      },
+      {
+         "id":4,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Sesungguhnya hidupku amatlah sederhana. Namun, kita selalu bersikeras menjadikannya rumit."
+      },
+      {
+         "id":5,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Ketika satu pintu ditutup, akan ada pintu lain yang terbuka. Tetapi, bila kita terlampau sering menatap terlalu lama dan larut dalam penyesalan tentang pintu yang tertutup itu, kita tak akan pernah melihat pintu lain yang terbuka untuk kita."
+      },
+      {
+         "id":6,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Tujuan hidup bukanlah untuk menjadi bahagia. Tujuan sesungguhnya ialah untuk memberikan manfaat, menjadi terhormat, penuh kasih, dan membawa perubahan jika Anda telah hidup dan menjalaninya dengan baik."
+      },
+      {
+         "id":7,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hidup adalah segala ingatan, kecuali untuk detik ini yang berlalu begitu cepat hingga Anda tak mampu menangkapnya."
+      },
+      {
+         "id":8,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Ada dua hari terpenting dalam kehidupan manusia. Satu, adalah ketika ia dilahirkan. Dua, adalah ketika ia mengetahui alasannya."
+      },
+      {
+         "id":9,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kita tidak merasa bahagia saat ini karena rumitnya kehidupan. Kita tidak bahagia sebab kita kehilangan kesederhanaan yang mendasari kehidupan."
+      },
+      {
+         "id":10,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hidup jauh lebih liar dibanding kenyamanan saya, lebih jauh dari yang kita biasa katakan, lebih menakjubkan, lebih layak dikagumi, dan saya ingin lebih bermurah hati dan menjadi baik."
+      },
+      {
+         "id":11,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hal terpenting dalam menikmati hidup adalah berbahagia—itu yang terpenting."
+      },
+      {
+         "id":12,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Bekerjalah seperti Anda tak membutuhkan uang, cintailah selayaknya Anda belum pernah terluka, dan menarilah seolah tak ada sepasang mata pun yang menonton."
+      },
+      {
+         "id":13,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Akan tiba saatnya ketika Anda harus memilih antara membalik halaman atau menutup buku."
+      },
+      {
+         "id":14,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hidup merupakan kemajuan, bukan sebuah perhentian."
+      },
+      {
+         "id":15,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Setiap orang memiliki alasan yang berbeda dalam menjalani kehidupan. Anda tak bisa memasukkan alasan semua orang di dalam kotak yang sama."
+      },
+      {
+         "id":16,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Jangan takut terhadap hidup. Percayalah bahwa hidup layak untuk dijalani dan kepercayaan tersebut akan membantu Anda mewujudkannya menjadi nyata."
+      },
+      {
+         "id":17,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Ini bukan tentang seberapa panjang perjalanan hidup, tapi seberapa dalam."
+      },
+      {
+         "id":18,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Waktu yang kita miliki terbatas, jadi jangan sia-siakan dengan menjalani kehidupan orang lain."
+      },
+      {
+         "id":19,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Di masa muda kita belajar, di masa tua kita memahami."
+      },
+      {
+         "id":20,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Berusahalah keras untuk tidak menjadi sukses, tapi jadilah bernilai."
+      },
+      {
+         "id":21,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Pilihlah pekerjaan yang Anda sukai, dan Anda tak akan pernah harus bekerja seharipun dalam seumur hidup Anda."
+      },
+      {
+         "id":22,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Ini bukan tentang apa yang Anda raih, melainkan tentang apa yang Anda hadapi. Itulah hal yang menentukan karir Anda."
+      },
+      {
+         "id":23,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kegagalan bukan berarti Anda telah gagal. Itu hanya berarti Anda belum berhasil."
+      },
+      {
+         "id":24,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kelemahan terbesar kita terletak pada kata “menyerah”. Cara paling pasti untuk mencapai kesuksesan adalah selalu “mencoba sekali lagi”."
+      },
+      {
+         "id":25,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Semua orang harus mengalami kegagalan setidaknya sekali sepanjang karir mereka, sebab mereka akan belajar banyak hal dari itu."
+      },
+      {
+         "id":26,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Saya ingin melihat kembali karir saya dan merasa bangga dengan pekerjaan saya. saya bangga telah mencoba segalanya."
+      },
+      {
+         "id":27,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Sukses adalah seberapa tinggi Anda terpental saat Anda mencapai dasar."
+      },
+      {
+         "id":28,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Yang Anda butuhkan dalam hidup ini adalah ketidaktahuan dan kepercayaan diri, kemudian kesuksesan pasti akan datang."
+      },
+      {
+         "id":29,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Jangan mudah menyerah dalam berusaha melakukan hal yang sungguh-sungguh ingin Anda lakukan. Di mana ada cinta dan inspirasi, kau takkan bisa gagal."
+      },
+      {
+         "id":30,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Penolakan adalah bagian dari pencarian pekerjaan dan itu adalah sesuatu yang semua orang alami."
+      },
+      {
+         "id":31,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Hal terpenting yang perlu Anda ingat adalah Anda harus bangkit kembali setelah ditolak."
+      },
+      {
+         "id":32,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Persiapan terbaik untuk hari esok adalah melakukan yang terbaik hari ini."
+      },
+      {
+         "id":33,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Percayalah, Anda tak melakukan kebaikan apapun pada diri Anda sendiri dengan menunda pekerjaan Anda."
+      },
+      {
+         "id":34,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Anda tak akan pernah tahu kapan peluang besar akan muncul, jadi sangat penting untuk selalu bersiap menunjukkan kemampuan Anda yang luar biasa."
+      },
+      {
+         "id":35,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Percayalah pada diri Anda sendiri serta apa yang mampu Anda lakukan."
+      },
+      {
+         "id":36,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Apa yang Anda inginkan ketika berusia 22 tahun mungkin bukan hal yang sama seperti yang Anda inginkan pada usia 30 tahun, dan hal ini tak masalah."
+      },
+      {
+         "id":37,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Rahasia maju adalah memulai."
+      },
+      {
+         "id":38,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Di balik kesuksesan seseorang, terdapat tahun-tahun kegagalan."
+      },
+      {
+         "id":39,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Jangan pernah berhenti hingga Anda merasa bangga."
+      },
+      {
+         "id":40,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Jika Anda mau  hal yang belum pernah Anda punya, Anda harus bersedia melakukan hal yang belum pernah Anda lakukan."
+      },
+      {
+         "id":41,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Bagi dunia, kau mungkin hanya satu dari milyaran orang. Namun bagiku, kau adalah dunia."
+      },
+      {
+         "id":42,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kau telah menemukan cinta sejatimu ketika kau menyadari bahwa setiap pagi kau ingin bangun di samping orang yang kau cintai meski kau sadar kalian memiliki banyak perbedaan."
+      },
+      {
+         "id":43,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kata Bijak Kehidupan"
+      },
+      {
+         "id":44,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Aku mencintaimu dan itu merupakan awal sekaligus akhir dari segalanya."
+      },
+      {
+         "id":45,
+         "nama_cat":"Status Kata Bijak 1",
+         "deskripsi":"Kau adalah sumber kebahagiaanku, pusat duniaku, dan seluruh hatiku."
+      },
+      {
+         "id":46,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Kisah cintaku dalam enam kata: “Aku tak mampu membayangkan hidup tanpamu”."
+      },
+      {
+         "id":47,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Kau adalah setiap alasan, harapan, dan mimpi yang pernah kumiliki."
+      },
+      {
+         "id":48,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Cinta bukanlah tentang berapa hari, minggu, atau bulan yang telah dihabiskan bersama. Tetapi tentang seberapa besar kita saling mencintai setiap harinya."
+      },
+      {
+         "id":49,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Darimu, aku tahu apa itu cinta."
+      },
+      {
+         "id":50,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Cara untuk mencintai adalah dengan menyadari bahwa suatu saat hal itu akan menghilang."
+      },
+      {
+         "id":51,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku jatuh cinta, berkali-kali, dan selalu denganmu."
+      },
+      {
+         "id":52,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Hatiku sempurna karena ada kau di dalamnya."
+      },
+      {
+         "id":53,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku tak mampu berhenti memikirkanmu, hari ini, esok, selalu."
+      },
+      {
+         "id":54,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Kau yakin itu cinta saat hal yang kau inginkan adalah kebahagiaan, bahkan bila kau bukanlah kebahagiaan miliknya."
+      },
+      {
+         "id":55,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Terima kasih kau selalu menjadi pelangi setelah badai di hidupku."
+      },
+      {
+         "id":56,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Bersama denganmu adalah tempat favoritku."
+      },
+      {
+         "id":57,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku jatuh cinta padamu, tanpa pernah tahu bagaimana, kapan, atau dari mana."
+      },
+      {
+         "id":58,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Jika aku punya bunga untuk setiap kali aku memikirkan tentangmu, kini aku bisa menyusuri kebun bungaku selamanya."
+      },
+      {
+         "id":59,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku mencintaimu hingga ke bulan dan kembali ke bumi."
+      },
+      {
+         "id":60,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku jatuh hati pada mu, sebab alam semesta beserta isinya berkonspirasi membantuku untuk menemukanmu."
+      },
+      {
+         "id":61,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Terkadang aku melihatmu dan bertanya-tanya, bagaimana aku bisa sangat beruntung."
+      },
+      {
+         "id":62,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Sahabat sejati ialah orang yang tetap berada di sampingmu ketika seisi dunia meninggalkanmu."
+      },
+      {
+         "id":63,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Persahabatan sejati datang saat keheningan terasa nyaman."
+      },
+      {
+         "id":64,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Setangkai bunga mawar dapat menjelma kebunku; seorang sahabat adalah semestaku."
+      },
+      {
+         "id":65,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Sahabat adalah ia yang memahami masa lalumu, percaya pada masa depanmu, dan menerima apa adanya dirimu."
+      },
+      {
+         "id":66,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Yang tak ingin kau lakukan pada dirimu sendiri, jangan kau lakukan pada orang lain."
+      },
+      {
+         "id":67,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Sahabat sejati tak akan menghalangi jalanmu kecuali ketika kau akan jatuh."
+      },
+      {
+         "id":68,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku tak membutuhkan teman yang berubah saat aku berubah, mengangguk saat aku mengangguk, sebab bayanganku dapat melakukan jauh lebih baik dari itu."
+      },
+      {
+         "id":69,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Persahabatan adalah hal tersulit di dunia untuk dijelaskan, bukan sesuatu yang kau pelajari di sekolah."
+      },
+      {
+         "id":70,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Jika kau belum mempelajari arti persahabatan, kau belum mempelajari apapun."
+      },
+      {
+         "id":71,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Jangan mengingat kata-kata musuh yang merendahkan, tapi pastikan untuk mengingat kata-kata teman yang membangun."
+      },
+      {
+         "id":72,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Jika kau mencari seorang teman, kau akan kesulitan menemukannya. Jika kau keluar untuk menjadi teman, kau akan menemukannya di manapun."
+      },
+      {
+         "id":73,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Persahabatan adalah satu-satunya lem yang mampu merekatkan dunia."
+      },
+      {
+         "id":74,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Sahabat adalah orang-orang langka yang bertanya keadaan kita dan menunggu untuk mendengar jawabnya."
+      },
+      {
+         "id":75,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Penemuan terindah dari persahabatan adalah bahwa merek dapat tumbuh terpisah tanpa terpisah."
+      },
+      {
+         "id":76,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Indahnya kebersamaan keluarga adalah harta yang tak ternilai dan banyak orang yang tak menyadarinya."
+      },
+      {
+         "id":77,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Momen paling bahagia dalam hidup adalah ketika berhasil membahagiakan keluarga."
+      },
+      {
+         "id":78,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Cinta dapat membangun sebuah keluarga. Kasih sayang dapat memulai sebuah keluarga. Kesetiaan dapat memelihara sebuah keluarga."
+      },
+      {
+         "id":79,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluarga adalah tempatmu untuk pulang, sejauh apapun langkah membawamu pergi."
+      },
+      {
+         "id":80,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku menemukan keluarga; kecil, sedikit hancur, tapi masih bagus. Ya, masih bagus."
+      },
+      {
+         "id":81,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Merupakan sebuah hadiah dan kehormatan terbesar untuk memiliki seorang putri."
+      },
+      {
+         "id":82,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Hal yang terpenting di dunia adalah keluarga dan cinta"
+      },
+      {
+         "id":83,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku amat bersyukur dikaruniai begitu banyak hal baik dalam hidup, termasuk keluarga kecilku."
+      },
+      {
+         "id":84,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Tanpa keluarga, manusia sendirian di dunia ini, gemetar sebab hawa dingin."
+      },
+      {
+         "id":85,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluarga akan selalu ada di sana. hal-hal materi akan datang dan pergi. Tapi tidak dengan keluarga."
+      },
+      {
+         "id":86,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Aku lebih suka memulai sebuah keluarga daripada mengakhirinya."
+      },
+      {
+         "id":87,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluarga ibarat kue fudge, kebanyakan terasa manis dengan sedikit kacang di dalamnya."
+      },
+      {
+         "id":88,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluarga adalah orang-orang pertama yang akan mendukung Anda ketika masalah datang."
+      },
+      {
+         "id":89,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluargaku, sumber kekuatan sekaligus kelemahan terbesarku."
+      },
+      {
+         "id":90,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Semua orang membutuhkan rumah untuk tinggal. Namun, keluarga yang saling mendukunglah yang membangun rumah."
+      },
+      {
+         "id":91,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Kau tak memilih keluargamu. Mereka adalah hadiah dari Tuhan untukmu, sebagaimana kau adalah hadiah untuk mereka."
+      },
+      {
+         "id":92,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Ibu merupakan pilar dalam keluarga."
+      },
+      {
+         "id":93,
+         "nama_cat":"Status Kata Bijak 2",
+         "deskripsi":"Keluarga merupakan tempat pikiran saling terhubung satu sama lain."
+      }
+   ]
+}

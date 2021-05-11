@@ -1,0 +1,466 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":10,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Status Hadist 1",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconstatushadist-1.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Hadist 2",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconstatushadist-1.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Pupuslah keputusasaan karena apa yang ada pada diri orang lain - HR Ibnu Majah"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Demi Allah, tidaklah kehidupan dunia dibandingkan akhirat melainkan hanya seperti salah satu dari kalian mencelupkan tangannya ke dalam lautan, maka silakan dilihat apa yang dibawa oleh jarinya - HRMuslim"
+      },
+      {
+         "id":3,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Tidaklah termasuk golongan kami, orang yang memukul-mukul pipinya dan mencabik-cabik bajunya ketika tertimpa musibah, serta berseru dengan seruan jahiliyah - HR Bukhari dan Muslim"
+      },
+      {
+         "id":4,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan bersama kesempitan, dan kesulitan bersama kemudahan - HR Tirmidzi"
+      },
+      {
+         "id":5,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Barang siapa yang tidak mensyukuri yang sedikit, maka ia tidak akan mampu mensyukuri sesuatu yang banyak - HRAhmad"
+      },
+      {
+         "id":6,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Barangsiapa datang kepada tukang ramal kemudian menanyakan sesuatu dan dia mempercayainya, maka tidak diterima salatnya selama empat puluh hari - HR Muslim"
+      },
+      {
+         "id":7,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Bangunlah pagi hari untuk mencari rezeki dan kebutuhan-kebutuhanmuSesungguhnya pada pagi hari terdapat barakah dan keberuntungan - HR At-Thabrani dan Al-Bazzar"
+      },
+      {
+         "id":8,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Tidaklah suatu kegalauan, kesedihan, kebimbangan, kekalutan yang menimpa seorang mukmin atau bahkan tertusuk duri sekalipun, melainkan karenanya Allah akan menggugurkan dosa-dosanya - HR Bukhari dan Muslim"
+      },
+      {
+         "id":9,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Kerjakanlah urusan duniamu seakan-akan kamu hidup selamanya dan laksanakanlah urusan akhiratmu seakan-akan kamu akan mati besok - HRIbnu Asakir"
+      },
+      {
+         "id":10,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Barangsiapa membaca Al-Qur'an dan mengamalkan isi kandungannya, maka kedua orangtuanya akan dipakaikan mahkota pada hari kiamat, yang sinarnya lebih terang daripada cahaya matahari jika sekiranya matahari itu berada di rumah-rumah kamu di dunia iniBagaimana menurut perkiraan kalian mengenai orang yang mengamalkannya sendiri?  - HR Abu Daud"
+      },
+      {
+         "id":11,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Wahai para pemuda, barangsiapa yang telah memiliki kemampuan hendaknya segera menikah, hal itu akan lebih menjaga pandanganmu dan kemaluanmuBarangsiapa yang belum mampu, hendaknya dia melakukan puasa, sesungguhnya puasa adalah benteng diri. - Al-Hadits"
+      },
+      {
+         "id":12,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Saad bin Abi Waqqash berkata, 'Aku bertanya kepada Rasulullah SAW, 'Ya Rasulullah, siapakah orang yang paling berat ujian dan cobaannya?' Nabi SAW menjawab, 'Para nabi, kemudian yang menyerupai mereka, dan yang menyerupai merekaSeseorang diuji menurut kadar agamanyaKalau agamanya tipis lemah, dia diuji sesuai dengan itu ringan, dan bila imannya kukuh, dia diuji sesuai itu keras Seorang diuji terus-menerus sehingga dia berjalan di muka bumi bersih dari dosa-dosa - HRBukhari"
+      },
+      {
+         "id":13,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Barangsiapa yang memegang kuasa tentang sesuatu urusan kaum muslimin, lalu dia memberikan suatu tugas kepada seseorang, sedangkan dia mengetahui bahwa ada orang yang lebih baik daripada orang itu, dia telah mengkhianati Allah, rasul-Nya dan kaum muslimin - HRAl-Hakim"
+      },
+      {
+         "id":14,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Sungguh kamu sekalian akan mengikuti sunah orang-orang sebelum kamu sejengkal demi sejengkal dan sehasta demi sehasta, sehingga walaupun mereka masuk ke dalam sarang biawak, niscaya kamu sekalian akan mengikuti mereka - HRMuslim"
+      },
+      {
+         "id":15,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Seandainya anak cucu adam mempunyai harta sepuluh lembah, tentu dia masih ingin memiliki yang ketigaPadahal yang mengisi perut anak cucu adam itu hanyalah tanah - HRMuslim"
+      },
+      {
+         "id":16,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Siapa yang menunjukkan kepada kebaikan, maka dia akan mendapat pahala sebanyak yang didapat oleh yang mengerjakannya - HRMuslim"
+      },
+      {
+         "id":17,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Dunia adalah perhiasan dan sebaik-baik perhiasan adalah wanita sholihah - HRMuslim"
+      },
+      {
+         "id":18,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Sesungguhnya syafa’atku diperuntukkan bagi umat-Ku yang sama sekali tidak berbuat syirik kepada Allah - HRAhmad"
+      },
+      {
+         "id":19,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Bertakwalah kepada Allah di mana pun kamu berada dan ikutilah perbuatan buruk dengan perbuatan baik niscaya itu menghapusnya, dan bergaullah dengan manusia dengan akhlak yang luhur - HRTirmidzi"
+      },
+      {
+         "id":20,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Demi Allah, apabila Allah memberi hidayah kepada seseorang karena ajaranmu, maka itu bagimu lebih baik daripada kekayaan ternak yang merah-merah - HRBukhari dan Muslim"
+      },
+      {
+         "id":21,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Hijrah adalah meninggalkan hal yang buruk - HRAhmad"
+      },
+      {
+         "id":22,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Semua amal anak adam dilipatgandakan 0 kali lipat hingga 700 kali atau sesuai yang Allah kehendaki - HRMuslim"
+      },
+      {
+         "id":23,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Sebaik-baik manusia ialah orang yang senantiasa mengingat Allah, dan seburuk-buruk manusia adalah orang yang suka mengadu domba, suka memecah belah antara orang-orang yang saling mengasihi, suka berbuat zalim, suka mencerai-beraikan manusia, dan selalu menimbulkan kesusahan - HRAhmad"
+      },
+      {
+         "id":24,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Manusia itu mengikut agama kawannyaMaka hendaklah diperhatikan siapa yang hendak dijadikan sebagai kawannya - HR Tirmidzi"
+      },
+      {
+         "id":25,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Tidak beriman seseorang di antara kalian hingga ia mencintai saudaranya sebagaimana mencintai dirinya sendiri - HRBukhari dan Muslim"
+      },
+      {
+         "id":26,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Dan engkau akan melihat gunung-gunung, yang engkau kira tetap berdiri di tempatnya, padahal dia berjalan seperti awan berjalan.  - Q.S An-Naml: 88"
+      },
+      {
+         "id":27,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Mudah-mudahan Allah menimbulkan kasih sayang antaramu dengan orang-orang yang kamu musuhi di antara merekaDan Allah adalah Maha KuasaDan Allah Maha pengampun lagi Maha penyayang.  - Q.S Al-Mumtahanah: 7"
+      },
+      {
+         "id":28,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Sesungguhnya Allah tidak akan mengubah nasib suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri.  - Q.S Ar-Ra’d: 1"
+      },
+      {
+         "id":29,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Apakah manusia itu mengira bahwa mereka dibiarkan  saja mengatakan, 'Kami telah beriman' sedang mereka tidak diuji lagi?  - Q.S Al-'Ankabut: 2"
+      },
+      {
+         "id":30,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Jangan kamu merasa lemah dan jangan bersedih, sebab kamu paling tinggi derajatnya jika kamu beriman.  - Q.S Ali Imran: 139"
+      },
+      {
+         "id":31,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Agar kamu tidak bersedih hati terhadap apa yang luput dari kamu dan tidak pula terlalu gembira terhadap apa yang diberikan-Nya kepadamuDan Allah tidak menyukai terhadap orang yang sombong dan membanggakan diri.  - Q.S Al-Hadid: 23"
+      },
+      {
+         "id":32,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Dan barangsiapa berbuat kesalahan atau dosa, kemudian dia tuduhkan kepada orang yang tidak bersalah, maka sungguh dia telah memikul suatu kebohongan dan dosa yang nyata.  - Q.S An-Nisa’: 112"
+      },
+      {
+         "id":33,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Di mana saja kamu berada, kematian akan mendapatkanmu, kendatipun kamu berada dalam benteng yang tinggi dan kokoh.  - Q.S An-Nisa: 78"
+      },
+      {
+         "id":34,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Bagi manusia ada malaikat-malaikat yang selalu mengikutinya di hadapan dan di belakangnya, mereka menjaganya atas perintah Allah.  - Q.S Ar-Ra'd: 11"
+      },
+      {
+         "id":35,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatu apa pun, dan Dia memberimu pendengaran, penglihatan, dan hati agar kamu bersyukur.  - Q.S An-Nahl: 78"
+      },
+      {
+         "id":36,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Sungguh kamu sekalian akan mengikuti sunnah orang-orang sebelum kamu sejengkal demi sejengkal dan sehasta demi sehasta, sehingga walau mereka masuk ke sarang biawak, niscaya kamu sekalian akan mengikuti mereka. - HRMuslim"
+      },
+      {
+         "id":37,
+         "nama_cat":"Status Hadist 1",
+         "deskripsi":"Bersemangatlah atas hal-hal yang bermanfaat bagimuMinta tolonglah pada Allah, jangan engkau lemah. - HRMuslim"
+      },
+      {
+         "id":38,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Aku berlindung dengan rida-Mu dari murka-Mu, aku berlindung dengan ampunan-Mu dari siksa-Mu, dan aku berlindung kepada-Mu dari jauh dengan-Mu. - HRMuslim"
+      },
+      {
+         "id":39,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Demi Allah, apabila Allah memberi hidayah kepada seseorang karena ajaranmu, maka itu bagimu lebih baik daripada kekayaan ternak yang merah-merah. - HRBukhari dan Muslim"
+      },
+      {
+         "id":40,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Sesungguhnya syafa'atku diperuntukkan bagi umat-Ku yang sama sekali tidak berbuat syirik kepada Allah. - HRAhmad"
+      },
+      {
+         "id":41,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Aku tinggalkan untuk kalian dua perkaraKalian tidak akan sesat selama berpegangan dengannya, yaitu kitabullah  Al-Qur'an dan sunnah Rasulullah SAW. - HRMuslim"
+      },
+      {
+         "id":42,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidak ada suatu amalan yang paling dicintai Allah dari bani adam ketika hari raya Iduladha selain menyembelih hewan kurban. - HRTirmidzi"
+      },
+      {
+         "id":43,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Semua amal anak adam dilipatgandakan 10 kali lipat hingga 700 kali atau sesuai yang Allah kehendaki. - HRMuslim"
+      },
+      {
+         "id":44,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Siapa yang keluar untuk menuntut ilmu, maka dia berjuang fi sabilillah hingga dia kembali. - HRTirmidzi"
+      },
+      {
+         "id":45,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan bersama kesempitan, dan kesulitan bersama kemudahan. - HR Tirmidzi"
+      },
+      {
+         "id":46,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Bangunlah pagi hari untuk mencari rezeki dan kebutuhan-kebutuhanmuSesungguhnya pada pagi hari terdapat barakah dan keberuntungan.  - HR At-Thabrani dan Al-Bazzar"
+      },
+      {
+         "id":47,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Celaka bagi orang yang membaca ayat-ayat Allah tetapi tidak memikirkannya. - HR Bukhar"
+      },
+      {
+         "id":48,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidak halal bagi seorang muslim tidak bertegur sapa dengan saudaranya sesama muslim lebih dari tiga hariYakni mereka bertemu saling membuang mukaDi antara mereka yang paling baik adalah yang lebih dahulu memberi salam. - HR Bukhari"
+      },
+      {
+         "id":49,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Seorang muslim adalah apabila seorang muslim lainnya selamat dari gangguan mulut dan tangannyaDan seorang mukmin adalah apabila manusia merasa terpelihara darah dan harta kekayaan mereka dari kejelekannya. - HR Nasa'i"
+      },
+      {
+         "id":50,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidaklah seorang muslim menanam tanaman kemudian tanaman itu dimakan oleh burung, manusia, atau hewan, kecuali baginya dengan tanaman itu adalah sedekah. - HR Bukhari dan Muslim"
+      },
+      {
+         "id":51,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Hai orang-orang beriman, bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok akhirat dan bertakwalah kepada AllahSungguh, Allah maha mengetahui apa yang kamu kerjakan.  - Q.S Al-Hasyr: 18"
+      },
+      {
+         "id":52,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Hai orang yang berselimut! Bangunlah lalu beri peringatan! Dan agungkanlah Tuhanmu! Bersihkanlah pakaianmu dan tinggalkanlah perbuatan dosa.  - Q.S Al-Muddattsir: 1-5"
+      },
+      {
+         "id":53,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Sungguh, setan itu tidak ada kekuasaannya atas orang yang beriman dan bertawakal kepada Tuhan.  - Q.S An-Nahl: 99"
+      },
+      {
+         "id":54,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Setan itu memberikan janji-janji kepada mereka dan membangkitkan angan-angan kosong pada mereka, padahal setan itu hanya menjanjikan tipuan belaka kepada mereka.  - Q.S An-Nisa’: 120"
+      },
+      {
+         "id":55,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Dan adapun orang-orang yang takut pada kebesaran Tuhannya dan menahan diri dari keinginan hawa nafsunya, maka sesungguhnya surgalah tempat tinggal mereka.  - Q.S An-Nazi’at: 40-41"
+      },
+      {
+         "id":56,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Demi Allah, tidaklah kehidupan dunia dibandingkan akhirat melainkan hanya seperti salah satu dari kalian mencelupkan tangannya ke dalam lautan, maka silakan dilihat apa yang dibawa oleh jarinya - HRMuslim."
+      },
+      {
+         "id":57,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidaklah termasuk golongan kami, orang yang memukul-mukul pipinya dan mencabik-cabik bajunya ketika tertimpa musibah, serta berseru dengan seruan jahiliyah - HRBukhari dan Muslim."
+      },
+      {
+         "id":58,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Batangsiapa datang kepada tukang ramal kemudian menanyakan sesuatu dan dia mempercayainya, maka tidak diterima salatnya selama empat puluh hari - HRMuslim."
+      },
+      {
+         "id":59,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Sungguh kamu sekalian akan mengikuti sunnah orang-orang sebelum kamu sejengkal demi sejengkal dan sehasta demi sehasta, sehingga walaupun mereka masuk ke dalam sarang biawak, niscaya kamu sekalian akan mengikuti mereka - HRMuslim."
+      },
+      {
+         "id":60,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidak beriman seseorang di antara kalian hingga ia mencintai saudaranya sebagaimana mencintai dirinya sendiri - HRBukhari dan Muslim."
+      },
+      {
+         "id":61,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Bersemangatlah atas hal-hal yang bermanfaat bagimuMinta tolonglah pada Allah, jangan engkau lemah - HRMuslim."
+      },
+      {
+         "id":62,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Pupuslah keputusasaan karena apa yang ada pada diri orang lain - HRIbnu Majah."
+      },
+      {
+         "id":63,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan bersama kesempitan, dan kesulitan bersama kemudahan - HRTirmidzi."
+      },
+      {
+         "id":64,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Barang siapa yang tidak mensyukuri yang sedikit, maka ia tidak akan mampu mensyukuri sesuatu yang banyak - HRAhmad."
+      },
+      {
+         "id":65,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Kerjakanlah urusan duniamu seakan-akan kamu hidup selamanya dan laksanakanlah urusan akhiratmu seakan-akan kamu akan mati besok - HRIbnu Asakir."
+      },
+      {
+         "id":66,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Seandainya anak cucu Adam mempunyai harta sepuluh lembah, tentu dia masih ingin memiliki yang ketigaPadahal yang mengisi perut anak cucu Adam itu hanyalah tanah - HRMuslim."
+      },
+      {
+         "id":67,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Aku tinggalkan untuk kalian dua perkaraKalian tidak akan sesat selama berpegangan dengannya, yaitu kitabullah dan sunnah Rasulullah - HRMuslim."
+      },
+      {
+         "id":68,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Wahai para pemuda, barangsiapa yang telah memiliki kemampuan hendaknya segera menikah, hal itu akan lebih menjaga pandanganmu dan kemaluanmuBarangsiapa yang belum mampu, hendaknya dia melakukan puasa, sesungguhnya puasa adalah benteng diri - Al-Hadits."
+      },
+      {
+         "id":69,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Barangsiapa yang memegang kuasa tentang sesuatu urusan kaum muslimin, lalu dia memberikan suatu tugas kepada seseorang, sedangkan dia mengetahui bahwa ada orang yang lebih baik daripada orang itu, dia telah mengkhianati Allah, rasul-Nya dan kaum muslimin - HRAl-Hakim."
+      },
+      {
+         "id":70,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Bertakwalah kepada Allah dimana pun kamu berada dan ikutilah perbuatan buruk dengan perbuatan baik niscaya itu menghapusnya, dan bergaullah dengan manusia dengan akhlak yang luhur - HRTirmidzi."
+      },
+      {
+         "id":71,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Manusia itu mengikuti agama kawannyaMaka hendaklah diperhatikan siapa yang hendak dijadikan sebagai kawannya - HRTirmidzi."
+      },
+      {
+         "id":72,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Aku berlindung dengan rida-Mu dari murka-Mu, aku berlindung dengan ampunan-Mu dari siksa-Mu, dan aku berlindung kepada-Mu dari jauh dengan-Mu - HRMuslim."
+      },
+      {
+         "id":73,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan bersama kesempitan, dna kesulitan bersama kemudahan - HRTirmidzi."
+      },
+      {
+         "id":74,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Bangunlah pagi hari untuk mencari rezeki dan kebutuhan-kebutuhanmuSesungguhnya pada pagi hari terdapat barakah dan keberuntungan - HRAt-Thabrani dan Al-Bazzar."
+      },
+      {
+         "id":75,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidaklah suatu kegalauan, kesedihan, kebimbangan, kekalutan yang menimpa seorang mukmin atau bahkan tertusuk duri sekalipun, melainkan karenanya Allah akan menggugurkan dosa-dosanya - HRBukhari dan Muslim."
+      },
+      {
+         "id":76,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Barangsiapa membaca Alquran dan mengamalkan isi kandungannya, maka kedua orangtuanya akan dipakaikan mahkota pada hari kiamat, yang sinarnya lebih terang daripada cahaya matahari jika sekiranya matahari itu berada di rumah-rumah kamu di dunia inibagaimana menurut perkiraan kalian mengenai orang yang mengamalkannya sendiri - HRAbu Daud."
+      },
+      {
+         "id":77,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Siapa yang menunjukkan kepada kebaikan, maka dia akan mendapat pahala sebanyak yang didapat oleh yang mengerjakannya - HRMuslim."
+      },
+      {
+         "id":78,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Semua amal anak Adam dilipatgandakan 10 kali lipat hingga 700 kali atau sesuai yang Allah kehendaki - HRMuslim."
+      },
+      {
+         "id":79,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Siapa yang keluar untuk menutut ilmu, maka dia berjuang fi sabilillah hingga dia kembali - HRTirmidzi."
+      },
+      {
+         "id":80,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Dunia adalah perhiasan dan sebaik-baik perhiasan adalah wanita sholihah - HRMuslim."
+      },
+      {
+         "id":81,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Sesungguhnya syafa’atku diperuntukkan bagi umat-Ku yang sama sekali tidak berbuat syirik kepada Allah - HRAhmad."
+      },
+      {
+         "id":82,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Demi Allah, apabila Allah memberi hidayah kepada seseorang karena ajaranmu, maka itu bagimu lebih baik daripada kekayaan ternak yang merah-merah - HRBukhari dan Muslim."
+      },
+      {
+         "id":83,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Hijrah adalah meninggalkan hal yang buruk - HRAhmad."
+      },
+      {
+         "id":84,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Sebaik-baik manusia ialah orang yang senantiasa mengingat Allah dan seburuk-buruk manusia adalah orang yang suka mengadu domba, suka memecah belah antara orang-orang yang saling mengasihi, suka berbuat zalim, suka mencerai-beraikan manusia, dan selalu menimbulkan kesusahan - HRAhmad."
+      },
+      {
+         "id":85,
+         "nama_cat":"Status Hadist 2",
+         "deskripsi":"Tidaklah seorang Muslim menanam tanaman kemudian tanaman itu dimakan oleh burung, manusia, atau hewan, kecuali baginya dengan tanaman itu adalah sedekah - HRBukhari dan Muslim."
+      }
+   ]
+}

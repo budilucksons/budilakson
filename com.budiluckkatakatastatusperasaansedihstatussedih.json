@@ -1,0 +1,501 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":10,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Sedih 1",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconstatussedih-1.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Sedih 2",
+         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/iconstatussedih-1.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Cuma takut ada orang lain yang bikin kamu nyaman daripada aku."
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"jika rindu katakan saja sebab rindu datang tak terduga pergipun tak kita sangka karena datang bisa kapan saja."
+      },
+      {
+         "id":3,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Hati ingin mengenal lebih jauh malah diminta untuk menjauh."
+      },
+      {
+         "id":4,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Maafkan aku, aku takkan memberi ucapan apapun. Walau aku tahu bahwa ini adalah ulang tahunmu. Karena sungguh aku benci melihatmu menua, jika tak bersamaku."
+      },
+      {
+         "id":5,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Nungguin kamu udah siap nikah itu kaya nonton adu layangan. Udah lama banget nunggu, pas udah siap aku baru sadar ternyata yang ngejar kamu bukan aku doang."
+      },
+      {
+         "id":6,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Dulu kita pernah tertawa lepas sebelum akhirnya saling melepas."
+      },
+      {
+         "id":7,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Seberat apapun luka dan kecewa yang kau berikan, selalu ada Tuhan yang merendamkan. Hingga selepas kepergianmu perlahan aku paham bahwa sedih tak perlu berlarut. Maka duka akan surut."
+      },
+      {
+         "id":8,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku bersedia menjadi hujan ditengah kemaraumu, namun setelah aku jatuh, kau memilih berteduh."
+      },
+      {
+         "id":9,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Maafkan aku yang sering menggangu waktumu hanya karena urusan rindu"
+      },
+      {
+         "id":10,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Hanya karena nyaman, aku lupa bahwa kita sebatas teman."
+      },
+      {
+         "id":11,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Jika mendekatimu adalah sebuah kesalahan, maka ijinkan aku untuk berjuang untuk mencintaimu dengan sisa hal yang kau benarkan."
+      },
+      {
+         "id":12,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku akan selalu merasa bahagia dengan melihatmu bahagia, walaupun yang membagiakanmu bukan aku."
+      },
+      {
+         "id":13,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Tak perlu memancing emosi jika hadirku tak diperlukan lagi. Aku cukup tau diri. Tanpa kau minta, aku akan pergi."
+      },
+      {
+         "id":14,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Untuk apa bertahan bila saling menyakiti. Bukankah kita dipersatukan untuk saling melengkapi?"
+      },
+      {
+         "id":15,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Akulah hujan yang ikhlas membasahi bumi. Meski yang kau harap adalah pelangi."
+      },
+      {
+         "id":16,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Ingin ku katakan padamu bahwa hati ini baik-baik saja. Tetapi luka tak bisa berdusta, Air mata jatuh tanpa suara.~"
+      },
+      {
+         "id":17,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Kau adalah apa yang selalu aku tulis, namun aku adalah apa yang tak pernah kau baca, dasar buta."
+      },
+      {
+         "id":18,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku harap kau sama denganku. Memupuk rindu diantara ruang dan waktu yang membatasi temu. Yakini, cinta yang tangguh takkan pernah runtuh. Akan tetap utuh, sekalipun terpisah jarak yang jauh."
+      },
+      {
+         "id":19,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Kalaupun aku boleh pura-pura lupa sama kamu, aku gak bakal ngelupain kamu soalnya kamu spesial."
+      },
+      {
+         "id":20,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Jangan asal kasih harapan dong, ini hidup bukan instagram yang ngasih hati segampang ngeklik dua kali."
+      },
+      {
+         "id":21,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Rinduku memberontak, namun dalam benak hati masih terasa sesak, dan sakit masih menyeruak."
+      },
+      {
+         "id":22,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Detik yang berlalu pelan, dengan pasti akan tercipta sebuah kenangan."
+      },
+      {
+         "id":23,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku tidak akan menangis karena sesuatu itu telah berakhir tapi aku akan tersenyum karena sesuatu itu pernah terjadi."
+      },
+      {
+         "id":24,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Jangan jadikan sehidup semati kalau datang dan pergi masih seenak hati."
+      },
+      {
+         "id":25,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Sendirian itu saat kau berada ditengah keramaian, namun tak satupun yang menganggap kau ada."
+      },
+      {
+         "id":26,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Membiarkanmu pergi memang bukanlah cara terbaik, tapi memohonmu untuk kembali pun bukan cara yang tepat, biarkan Tuhan mempertemukan kita dengan cara-Nya yang tidak terduga."
+      },
+      {
+         "id":27,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"kamu tak pernah salah untuk memilih menjauh, karena sejak awal aku yang salah berharap, bukan kamu yang salah menolah."
+      },
+      {
+         "id":28,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Tak perlu memaksakan cinta, sebab cintalah akan menemukan pemiliknya."
+      },
+      {
+         "id":29,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Lupa tanggal sama hari jadiannya tapi susah ngelupain kenangannya."
+      },
+      {
+         "id":30,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Untuk sementara jauh dulu tak apa, perasaan indah bukan berarti harus mata bertemu mata."
+      },
+      {
+         "id":31,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Pernah dijadikan sebuah prioritas namun semua berubah menjadi luka yang membekas."
+      },
+      {
+         "id":32,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku tak memilikimu namun aku takut kehilanganmu."
+      },
+      {
+         "id":33,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Bego banget namanya kalau masih memperjuangkan seseorang yang gak mau diperjuangkan."
+      },
+      {
+         "id":34,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Dia suka lama balas chat dari kamu? Itu artinya dia lagi chatan sama yang lebih asyik dari kamu."
+      },
+      {
+         "id":35,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Hal yang menyedihkan dari menunggu itu adalah kita saling menunggu tapi tidak saling mengetahui."
+      },
+      {
+         "id":36,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku gak minta kamu balas chat cepat, gak minta kamu buat peduliin aku apalagi minta jadi prioritas. Aku hanya meminta kamu tolong anggap aku ada walau sedikit."
+      },
+      {
+         "id":37,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Untuk yang pernah menyakitiku terima kasih telah mengajarkanku arti bersabar, dan semoga kau tak merasakan apa yang kurasakan."
+      },
+      {
+         "id":38,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Rindumu, menggumpal seperti apas didasar cangkir kopi sebab ia adalah sisa sisa nikmat yang dulu kau sesapi."
+      },
+      {
+         "id":39,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Bahagiaku sederharna, cukup kehadiranmu dalam ratusan rencana dan semoga saja."
+      },
+      {
+         "id":40,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Rindu, penyesalan dan malam sesak adalah teman setia saatku kesepian tanpa pasangan."
+      },
+      {
+         "id":41,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Yang sanggup memutuskan untuk dekat, bukan berarti dia juga sanggup untuk memahami."
+      },
+      {
+         "id":42,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Padahal cintaku padamu hanya sesederharna satu ditambah satu sama dengan dua, tapi kenapa kamu belum mengerti?"
+      },
+      {
+         "id":43,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Hanya karena rindu tak terucap bukan berarti aku tidak rindu. Hanya karena terpisah jarak bukan berarti aku tidak cinta. Ketahuilah, rindu dan jarak tercipta karena adanya dirimu."
+      },
+      {
+         "id":44,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Walaupun badanku bau matahari, Aku berusaha membahagiakanmu setiap hari. Tanpa henti, tanpa kenal rugi."
+      },
+      {
+         "id":45,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Engkau datang bersama harapan kemudian pergi begitu saja tanpa sebuah alasan."
+      },
+      {
+         "id":46,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Dua permintaanku saat ini, kau selalu ada didekatku dan buat diriku bahagia itu saja udah cukup bagiku."
+      },
+      {
+         "id":47,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Jika memang kamu memilih untuk bertahan, maka tidak ada alasan bagiku untuk menyerah."
+      },
+      {
+         "id":48,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku membelamu ketika semua orang berkata kamu buruk untuku, tapi kamu sedikitpun tidak menganggapku."
+      },
+      {
+         "id":49,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku bukan seorang yang kamu impikan, melainkan seseorang yang tidak kamu inginkan. Kamu bersikap seakan kamu memperhatikan padahal kamu sama sekali tidak membutuhkan."
+      },
+      {
+         "id":50,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Gak ngurus itu teman/bukan kalau sayang yah bakal aku perjuangkan."
+      },
+      {
+         "id":51,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Betapa pedenya aku menyangka bahwa dirimu memiliki perasaan yang sama seperti perasaanku."
+      },
+      {
+         "id":52,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Pada titik yang begitu melelahkan aku kerap memejamkan mata. Ada sesuatu hal yang selalu terpikirkan, bagaimana ya rasa diperjuangkan."
+      },
+      {
+         "id":53,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Seperti terlupakan, namun sejatinya ia masih lekat dipikirkan. Dibilang ingat, namun ia berusaha melupakan. Jadi sebenarnya kita ini apa."
+      },
+      {
+         "id":54,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Apakah masih ada ruang untukku di sana? Jika ada aku akan datang, jika tidak biarkan aku menghilang."
+      },
+      {
+         "id":55,
+         "nama_cat":"Status Kata Sedih 1",
+         "deskripsi":"Aku terbiasa dengan harapan hingga lupa dengan kepastian."
+      },
+      {
+         "id":1,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Hati ingin mengenal lebih jauh malah diminta untuk menjauh."
+      },
+      {
+         "id":2,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Nungguin kamu udah siap nikah itu kaya nonton adu layangan. Udah lama banget nunggu, pas udah siap aku baru sadar ternyata yang ngejar kamu bukan aku doang."
+      },
+      {
+         "id":3,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Cuma takut ada orang lain yang bikin kamu nyaman daripada aku."
+      },
+      {
+         "id":4,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku bersedia menjadi hujan ditengah kemaraumu, namun setelah aku jatuh, kau memilih berteduh."
+      },
+      {
+         "id":5,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Hanya karena nyaman, aku lupa bahwa kita sebatas teman."
+      },
+      {
+         "id":6,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Maafkan aku yang sering menggangu waktumu hanya karena urusan rindu"
+      },
+      {
+         "id":7,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Tak perlu memancing emosi jika hadirku tak diperlukan lagi. Aku cukup tau diri. Tanpa kau minta, aku akan pergi."
+      },
+      {
+         "id":8,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Kau adalah apa yang selalu aku tulis, namun aku adalah apa yang tak pernah kau baca, dasar buta."
+      },
+      {
+         "id":9,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Kalaupun aku boleh pura-pura lupa sama kamu, aku gak bakal ngelupain kamu soalnya kamu spesial."
+      },
+      {
+         "id":10,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Rinduku memberontak, namun dalam benak hati masih terasa sesak, dan sakit masih menyeruak."
+      },
+      {
+         "id":11,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Apakah masih ada ruang untukku di sana? Jika ada aku akan datang, jika tidak biarkan aku menghilang."
+      },
+      {
+         "id":12,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku terbiasa dengan harapan hingga lupa dengan kepastian."
+      },
+      {
+         "id":13,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Gak ngurus itu teman/bukan kalau sayang yah bakal aku perjuangkan."
+      },
+      {
+         "id":14,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku benci LDR. Rasanya ingin sekali memperpendek jarak. Aku mau Tuhan dengar semua harapku"
+      },
+      {
+         "id":15,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Di bukumu tertulis namaku. Tapi, mengapa di belakangku kamu tersenyum untuk orang lain?"
+      },
+      {
+         "id":16,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Jangan terlalu acuh padaku, sayang. Aku tidak suka. Mauku kamu tersenyum seterusnya untukku"
+      },
+      {
+         "id":17,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku sedih karena cemburu yang menggebu. Bukan karena orang lain yang datang menyapamu melainkan cemburu karena kesibukkanmu dengan meja kerja itu"
+      },
+      {
+         "id":18,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Sabar-sabarlah, diriku. Kamu tidak begitu sederhana untuk dimengerti. Pikirku semua ujian tentangmu adalah luar biasa untuk menjadikanku wanita hebat"
+      },
+      {
+         "id":19,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Di bukumu tertulis namaku. Tapi, mengapa di belakangku kamu tersenyum untuk orang lain?"
+      },
+      {
+         "id":20,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Jangan melulu memberi janji. Aku sudah tahu semuanya. Kamu boleh pergi. Jangan lupa ambil semua apa yang tersisa di sini, di hati"
+      },
+      {
+         "id":21,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Bukan amarah melainkan kecewa. Barangkali Tuhan punya cara indah untuk membiarkanku bernapas dengan tenang"
+      },
+      {
+         "id":22,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Yang kuat, sayang. Hidup tidak melulu untuk bahagia. Kamu harus pernah merasa terluka untuk tahu betapa besar harga sebuah pengorbanan"
+      },
+      {
+         "id":23,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Sayang, tahukah kamu hal apa yang paling menyakitkan selain pukulan? Benar. Kekecewaa. Aku tidak paham apa yang membuatmu beralih dariku. Mungkin aku banyak kurangnya atau justru kamu yang kurang bersyukur"
+      },
+      {
+         "id":24,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"ku tidak pernah mendiktemu untuk terus mengikuti langkahku. Aku hanya ingin kamu ada di jalan yang sama denganmu. Tapi, nyatanya saat ku panggil justru kamu sedang berpaling dengan bunga baru"
+      },
+      {
+         "id":25,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Yang meninggalkan belum tentu benar-benar sudah bahagia dengan pilihan barunya. Bisa jadi dia frustasi untuk kalah bahagia dengan masa lalunya"
+      },
+      {
+         "id":26,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Terimakasih telah mengajarkanku untuk menebalkan sabar. Bahwa ditinggalkanmu cukup menyita hari-hariku"
+      },
+      {
+         "id":27,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Mudah-mudahan aku juga bisa bahagia. Sama sepertimu yang bahagia kala meninggalkanku bersama dirinya"
+      },
+      {
+         "id":28,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Rumus terberat dalam hidupku adalah melepas derap langkah kepergianmu. Kemudian aku dipaksa untuk segera melupakanmu"
+      },
+      {
+         "id":29,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Merelakan kepergianmu bisa jadi pilihan yang buruk. Tapi, memaksamu untuk menetap juga merupakan pilihan yang tepat. Aku percaya Tuhan selalu punya skenario yang baik"
+      },
+      {
+         "id":30,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Terimakasih telah mengajarkanku untuk menebalkan sabar. Bahwa ditinggalkanmu cukup menyita hari-hariku"
+      },
+      {
+         "id":31,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Kepergianmu bagiku ada jawaban atas segala tanya yang ada di kepala. Aku paham bahwa seharusnya aku tidak terlalu berekspektasi tinggi"
+      },
+      {
+         "id":32,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Memejamlah sebentar, sayang. Cobalah ingat aku. Seandainya saja tanpa beban kamu bisa mengingatku, maka sebetulnya kamu masih mencintaiku"
+      },
+      {
+         "id":33,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Minta maaflah padaku. Setidaknya itu bisa membuatku menang atas semua kesalahan yang sudah sengaja kamu buat padaku"
+      },
+      {
+         "id":34,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku meninggalkan namun bukan berarti sudah tidak menyayangimu lagi. Hanya saja sejenak aku berpikir bahwa orang yang ku cintai jauh lebih bahagia dengan orang lain"
+      },
+      {
+         "id":35,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Yang membekas tidak selamanya bisa hilang. Seperti halnya sebuah kenangan yang ditelan waktu bertahun-tahun lamanya. Nyatanya aku masih saja aku dan kamu tetap kamu. Kapan pun waktu memaksa melumat segala histori yang dulu, kita masih saja tetap ada sebagai masa lalu"
+      },
+      {
+         "id":36,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Membenci rindu yang amat menggebu. Seakan tidak tahu tempat, semaunya saja mencari temu. Sadarlah, aku dan dia bukan lagi menjadi kita. Rindu, bersabarlah sampai aku temukan tuanmu yang baru"
+      },
+      {
+         "id":37,
+         "nama_cat":"Status Kata Sedih 2",
+         "deskripsi":"Aku benci untuk menjadi asing, tentang perasaan tidak mau menatap. Padahal dulunya kita sepakat untuk menetap. Bersama sama nanti, bukan mengakhiri segalanya dengan kepalsuan janji"
+      }
+   ]
+}
