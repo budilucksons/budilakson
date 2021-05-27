@@ -10,8 +10,8 @@
 
 	
 	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "2",
-	"pengaturan_iklan_native": "2",
+	"pengaturan_iklan_inter": "1",
+	"pengaturan_iklan_native": "1",
 	
     "inter_count" : 8,
 
