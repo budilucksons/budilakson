@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "2",
+      "pengaturan_iklan" : "6",
       "interval_intertitial": 6,
       "intertitial_admob":"",
       "native_admob":"ca-app-pub-7691534248804171/4620783351",
