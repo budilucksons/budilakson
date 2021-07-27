@@ -4,7 +4,7 @@
     {
       "pengaturan_iklan" : "6",
       "interval_intertitial": 6,
-      "intertitial_admob":"",
+      "intertitial_admob":"ca-app-pub-0000000000000000/0000000000",
       "native_admob":"ca-app-pub-7691534248804171/4620783351",
       "openads":"",
       "status":"0",
