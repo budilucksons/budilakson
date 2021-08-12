@@ -1,601 +1,78 @@
 {
-   "Iklan":[
-      {
-         "status":"1",
-         "link":"https://play.google.com/store/apps/details?id=com.budiluckkatakatalucubuatstatusupdatestatus",
-         "interid":"",
-         "nativeid":"ca-app-pub-7691534248804171/4045782874",
-         "openid":"",
-         "deskripsi_update":"Yuk Update Aplikasinya",
-         "link_update":"https://play.google.com/store/apps/details?id=com.budiluckkatakatalucubuatstatusupdatestatus",
-         "interval":20,
-         "pengaturan_iklan":"1",
-         "startappid":"204464541",
-         "version_app":1,
-         "fan_inter":"YOUR_PLACEMENT_ID",
-         "fan_banner_native":"YOUR_PLACEMENT_ID",
-         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
-         "inmobi_inter":1476878485960,
-         "inmobi_banner":1473189489298,
-         "hpk_admob1":"Bisnis",
-         "hpk_admob2":"Shopee",
-         "hpk_admob3":"Telkomsel",
-         "hpk_admob4":"Belanja",
-         "hpk_admob5":"Forex"
-      }
-   ],
-   "Categories":[
-      {
-         "id":1,
-         "nama_cat":"Status Lucu Cinta 1",
-         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
-      },
-      {
-         "id":2,
-         "nama_cat":"Status Lucu Cinta 2",
-         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
-      },
-      {
-         "id":3,
-         "nama_cat":"Status Lucu Umum",
-         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
-      },
-      {
-         "id":4,
-         "nama_cat":"Status Lucu Jawa",
-         "gambar":"https://budilaksonoprivvacy.files.wordpress.com/2021/05/kata-kata-status-lucu.png"
-      }
-   ],
-   "Data":[
-      {
-         "id":1,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku bingung. Pacaran jauh jauhan disebut LDR. Jauh dari pacar katanya setia. lah kok kalau pacarnya masih jauh disebut jomblo - Selvy Anita"
-      },
-      {
-         "id":2,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku masih belum bisa melupakanmu  sayang karena aku baru ingat kalau kamu belum bayar utang - Rossa"
-      },
-      {
-         "id":3,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku mencintaimu. Itu sebabnya aku takkan pernah selesai mendoakan keselamatanmu - Sapardi Djoko Damono"
-      },
-      {
-         "id":4,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Butuh berapa malam lagi hingga aku bisa melupakanmu? - Wira Nagara"
-      },
-      {
-         "id":5,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cinta itu bertahan bersama. Lalu  jika kamu tidak mau bertahan  apalah gunanya aku bertahan? - muchi"
-      },
-      {
-         "id":6,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cinta itu ibarat kentut. Kalau kamu paksakan  pasti kamu langsung kepingin BAB - Wondrous"
-      },
-      {
-         "id":7,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cinta itu memang buta  tapi cinta tidak tuli. Cinta bisa bedakan mana suara honda jazz dengan honda supra - muchi"
-      },
-      {
-         "id":8,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Dan sebenarnya  pacar orang adalah pacar kita juga  karena kita juga kan orang - Cak Lontong"
-      },
-      {
-         "id":9,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Gimana bisa lupa sama dia kalau setiap liat kotoran keinget dia - muchi"
-      },
-      {
-         "id":10,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":" Hewan qurban aja dikorbanin lehernya ga sampai putus. Masa hubungan kita udah banyak berkorban akhirnya tetap putus - Babe Cabita"
-      },
-      {
-         "id":11,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Jangan sampai cewek lo bilang terserah karena itu berarti lu harus mikir apa maksud terserah itu- muchi"
-      },
-      {
-         "id":12,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":" Jomblo sekarang terlalu banyak yang dicari  padahal mereka cuma 1 yang dicari: cari yang mau. Itu aja susah!- Raditya Dika"
-      },
-      {
-         "id":13,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Kalau mau punya pacar  ada 3 ng  yaitu ngedoa  ngusaha  sama ngaca - Lilohuddin"
-      },
-      {
-         "id":14,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":" Kamu tahu apa kejahatan terkejam? Kejahatan terkejam yaitu ketika kamu mencuri hatiku dan tak pernah mengembalikannya. Kini aku harus mencari hatiku itu- muchi"
-      },
-      {
-         "id":15,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":" Kita berhenti mencintai diri kita saat tak ada orang lain yang mencintai kita - Germain De Stael"
-      },
-      {
-         "id":16,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Maafkan aku  sayang! Aku harus pergi darimu karena aku tidak tahan bau badan dan bau mulutmu - Jordan Wesley"
-      },
-      {
-         "id":17,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":" Masakanmu membunuhku- Hasel Royd"
-      },
-      {
-         "id":18,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Mereka bilang cinta itu lebih penting dari uang  tapi pernahkan kamu membayar tagihan pakai pelukan?- muchi"
-      },
-      {
-         "id":19,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Mereka yang merasa lebih baik mencintai dan kehilangan adalah mereka yang pernah mencintai dan kehilangan- Tom Nelson"
-      },
-      {
-         "id":20,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Pacarku bilang aku gila  tapi anehnya dia mau sama saya- muchi"
-      },
-      {
-         "id":21,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Setiap aku mulai melupakanmu seakan aku tidak peduli lagi denganmu  kamu muncul dan menghancurkan semua pikiranku - Xuan Ta"
-      },
-      {
-         "id":22,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Udah sering antar jemput. Udah sering hang out bareng. Udah sering makan siang dan makan malam bareng. Ternyata  cuma dianggap sebatas teman. Sedih deh!- Johanes Rida"
-      },
-      {
-         "id":23,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Udah tiga hari gak makan apa2. Soalnya gak ada yg ngingetin aku makan.- Raditya Dika"
-      },
-      {
-         "id":24,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Yuk  tes adrenalin ke nikahan mantan- Sanusi"
-      },
-      {
-         "id":25,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku pergi ke sebuah restoran yang menyajikan ‘sarapan kapanpun’. Jadi aku memesan makanan Prancis pada masa Renaissance - Steven Wright"
-      },
-      {
-         "id":26,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku tidak suka olah raga  tapi jika Tuhan menyuruh aku untuk membungkuk  pasti Ia sudah meletakkan berlian di lantai- Jerry Seinfield"
-      },
-      {
-         "id":27,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Apapun yang dikatakan indomie  selera aku tetap kamu kok! Bagaimanapun tokopedia mencari peluang  aku masih mencari peluang mendapatkan kamu!- Munah"
-      },
-      {
-         "id":28,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Besar pasak daripada tiang. Aku uda sesak pingin dipanggil sayang- Babe Cabita"
-      },
-      {
-         "id":29,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cewek Ngerokok bibirnya keras kaya asbak. Bibirnya keras udah keras  lengket berdebu  kaya dapur belom disapu - Bintang Timur"
-      },
-      {
-         "id":30,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cewek itu suka diperhatiin. Jadi lu harus perattin semuanya. Dari maskara yang luntur sampe sendal jepit yang dekil - Pandji Pragiwaksono"
-      },
-      {
-         "id":31,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Di belakang lelaki hebat pasti ada beberapa cewek matre - Jim Carey"
-      },
-      {
-         "id":32,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Hal yang baik dari pertunjukkan di penjara adalah nggak ada yang bangun dan keluar dari selnya- Jeff Ross"
-      },
-      {
-         "id":33,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Orang bodoh bisa berbahagia dengan kebodohannya."
-      },
-      {
-         "id":34,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Saat pagi  kasur dan WC sama-sama berusaha merebut perhatian kita."
-      },
-      {
-         "id":35,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Saya menemukan hanya ada satu cara untuk terlihat kurus: Kumpul bersama orang gendut."
-      },
-      {
-         "id":36,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Daun yg jatuh takkan pernah bisa membenci angin  meskipun itu hanya sedetik. Begitu jg perut lapar gak bisa menyalahkan beras  tp salahkeun we kasalaki ongana teu boga duit."
-      },
-      {
-         "id":37,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"rang yg berpendapat jomblo itu gak laku  mungkin beranggapan bahwa dirinya adalah barang dagangan."
-      },
-      {
-         "id":38,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku memang pendiam  diam-diam aku jatuh cinta padamu."
-      },
-      {
-         "id":39,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Ada jamu  diatasnya kuku. ternyata tawamu membekas di hatiku."
-      },
-      {
-         "id":40,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Kalo kamu nggak bisa bikin orang lain ketawa  setidaknya jangan bikin orang lain menangis  kan begitu."
-      },
-      {
-         "id":41,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Ketika seseorang berusaha menjauhi hidupmu  jangan sampai sebelum dia melunasi utangnya."
-      },
-      {
-         "id":42,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Sejarah masa lalu bisa dijadikan pelajaran berharga  Jika kamu tidak memiliki kengan setidaknya bisa jadi kenagan orang lain."
-      },
-      {
-         "id":43,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Mau mandi males  harus jalan ke kamar mandi  ada toilet online nggak yah biar di anterin."
-      },
-      {
-         "id":44,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"3 hal di dunia ini yg tak bisa dihitung yaitu jumlah bintang di langit  jumlah ikan di laut dan banyaknya cintaku padamu di hati ini."
-      },
-      {
-         "id":45,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Sesuatu yang berharga itu tidak bisa di tulis didalam buku tapi hanya bisa dikenang dan disimpan dalam hati."
-      },
-      {
-         "id":46,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Cara memulai adalah dengan berhenti berbicara dan mulai melakukan."
-      },
-      {
-         "id":47,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Aku mendadak Budek waktu kamu bilang AKU SAYANG KAMU Bukan kaga kedengeran tapi cuma pengen kamu ulang terus."
-      },
-      {
-         "id":48,
-         "nama_cat":"Status Lucu Cinta 1",
-         "deskripsi":"Kalo aku disuruh milih hidupku apa hidupmu pasti aku akan milih hidupku karena hidupku adalah kamu."
-      },
-      {
-         "id":1,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jika orang berbicara di belakangmu, itulah saat yang tepat untuk kentut."
-      },
-      {
-         "id":2,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Wanita menghabiskan lebih banyak waktu untuk bertanya-tanya apa yang dipikirkan pria daripada pria."
-      },
-      {
-         "id":3,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku ingin seseorang memberiku pinjaman dan kemudian meninggalkanku."
-      },
-      {
-         "id":4,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak punya masalah sikapAku punya sikapMasalahnya milikmu."
-      },
-      {
-         "id":5,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Terlahir untuk mengekspresikan, bukan untuk mengesankan."
-      },
-      {
-         "id":6,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak mengatakan itu salahmu, aku bilang aku menyalahkanmu."
-      },
-      {
-         "id":7,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Bersikaplah baik kepada kutu buku, mereka akan menjadi bosmu suatu hari nanti."
-      },
-      {
-         "id":8,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak percaya pada keajaibanAku mengandalkan mereka."
-      },
-      {
-         "id":9,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jika kamu masih mencari satu orang yang akan mengubah hidupmu, cobalah bercermin."
-      },
-      {
-         "id":10,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak pernah membantah, aku hanya menjelaskan mengapa saya benar."
-      },
-      {
-         "id":11,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Persahabatan sejati: masuk ke rumah seseorang dan Wi-Fi-mu terhubung secara otomatis."
-      },
-      {
-         "id":12,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jadilah dirimu sendiri, siapa lagi yang lebih berkualitas?"
-      },
-      {
-         "id":13,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Terus putar matamuMungkin kamu akan menemukan otak di belakang sana."
-      },
-      {
-         "id":14,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jangan pernah memercayai anjing untuk menjaga makananmu."
-      },
-      {
-         "id":15,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Di belakang setiap wanita yang marah ada pria yang sama sekali tidak tahu apa yang dia lakukan salah."
-      },
-      {
-         "id":16,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak akan terkesan dengan teknologi sampai aku dapat men-download makanan."
-      },
-      {
-         "id":17,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku akan mengambil alih dunia pagi ini, tetapi ketiduran."
-      },
-      {
-         "id":18,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jika kamu tidak bisa meyakinkan mereka, buat mereka bingung."
-      },
-      {
-         "id":19,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Tidur adalah obatku, tempat tidurku adalah singgasanaku dan jam alarm adalah polisinya."
-      },
-      {
-         "id":20,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku sangat ingin bekerja sangat kerasTapi, menjadi malas sangat menyenangkan."
-      },
-      {
-         "id":21,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Cinta mungkin buta, tetapi pernikahan benar-benar membuka mata."
-      },
-      {
-         "id":22,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak pernah gagalKesuksesanku ditunda sampai nanti."
-      },
-      {
-         "id":23,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Kamu benar, aku tidak sempurnaTapi, aku unik!"
-      },
-      {
-         "id":24,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Belanja adalah seniAku seorang senimanTolong hormat ya."
-      },
-      {
-         "id":25,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku akhirnya menyadari sesuatu: Apa yang orang lain pikirkan dan katakan tentang diriku bukanlah urusanku."
-      },
-      {
-         "id":26,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"WiFi, makanan, tempat tidurKesempurnaan."
-      },
-      {
-         "id":27,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jika kamu mengirimiku pesan dan aku tidak membalasnya, itu karena aku pingsan karena kebahagiaan."
-      },
-      {
-         "id":28,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku dulu ragu-ragu, tetapi sekarang aku tidak begitu yakin."
-      },
-      {
-         "id":29,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tahu aku luar biasa, jadi aku tidak peduli dengan pendapatmu."
-      },
-      {
-         "id":30,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Baru melihat orang terpintar saat aku di depan cermin."
-      },
-      {
-         "id":31,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku mungkin salahTapi, aku meragukannya."
-      },
-      {
-         "id":32,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku tidak sempurna, tetapi aku adalah edisi terbatas."
-      },
-      {
-         "id":33,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku terlalu malas untuk berhenti menjadi malas."
-      },
-      {
-         "id":34,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Jangan pernah menyerah pada mimpimu, lanjutkan tidurmu."
-      },
-      {
-         "id":35,
-         "nama_cat":"Status Lucu Umum",
-         "deskripsi":"Aku sekarang berada pada titik di mana tidak ingin membuat siapa pun terkesan lagiJika orang menyukaiku apa adanya, bagusJika tidak, ya itu kerugian mereka."
-      },
-      {
-         "id":1,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Sejuta kata cinta ingin kusampaikan. Apa daya pulsaku habis! Kirimkan pulsamu, aku akan kirimi SMS cintaku."
-      },
-      {
-         "id":2,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Teman sejati selalu berbagi, kalo saya jadi laut, kamu jadi ikan, saya jadi kumbang kamu jadi bunga, saya jadi matahari kamu jadi bumi, kalo saya jadi tarzan, kamu mau jadi monyetnya?"
-      },
-      {
-         "id":3,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Saat aku sedih kau disampingku, saat aku marah kau ada di dekatku. Saat aku menangis kau disisiku, Sekarang aku sadar, jangan2 kau adalah pembawa sial untukku."
-      },
-      {
-         "id":4,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Sayang sering aku telp kamu Aku sms kamu ternyata kini aku sadar, ternyata mmmmm aku lebih sayang sama PULSAKU."
-      },
-      {
-         "id":5,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Temen ya temen . Pacar ya pacar ,jangan temanan kaya pacaran. Apalagi pacaran kaya temanan.Tipis abis bedanya tapi pait sob."
-      },
-      {
-         "id":6,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Kamu mau menjadi seorang penyiar radio ya? Habisnya kamu selalu menyiarkan gelombang cinta di hatiku."
-      },
-      {
-         "id":7,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Cintaku ke kamu itu sangat DASYAT, ya kalau ada inbox dari hati kamu langsung hip-hip hore."
-      },
-      {
-         "id":8,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Dulu papaku nyuruh aku sekolah sampai jenjang S3. Setelah ketemu kamu, aku cuma mau sampe ke jenjang pernikahan."
-      },
-      {
-         "id":9,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Yang baik baik di tolak, yang berandalan di pacarin , giliran di sakiti ngomongnya: Semua cowo sama aja."
-      },
-      {
-         "id":10,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Rese lu!Kaga dpt percaya! hianat! Norak! Kampungan! Lu kira gw takut, hah??Knp lu kasih tau rahasia gua ke org2 kalo gua tuh CAKEEPPP!!"
-      },
-      {
-         "id":11,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Iman itu kaya tato, baru punya sedikit saja sudah ditunjuk-tunjukkin mulu."
-      },
-      {
-         "id":12,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Kerja keras itu harus, karena uang ga bisa jalan sendiri ke kantong atau dompet saya."
-      },
-      {
-         "id":13,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Kalo pergi kerja, muka jangan ditinggal. Jadi, pas di kantor gak perlu nyari muka!"
-      },
-      {
-         "id":14,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Pekerjaan seberat apapun akan terasa ringan, jika kita tidak mengerjakannya."
-      },
-      {
-         "id":15,
-         "nama_cat":"Status Lucu Cinta 2",
-         "deskripsi":"Untung sekali cinta itu buta. Coba kalo bisa ngelihat? Orang jelek pasti ngga laku."
-      },
-      {
-         "id":1,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Aja kaya wong kurang plesir lah.. Sante bae sih ngapaAwale sok jual mahal. Langka sing gelem, ora payu akhire di obral. #sewutelu Ayu sih.. Tapi anune ireng."
-      },
-      {
-         "id":2,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Bukane ora duwe pacar, mung lagi ora kepengin pacaran bae.Cah wadon bar di puji tambah langsing, mangane malah tambah akeh"
-      },
-      {
-         "id":3,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Cah wadon kuwe angel tresna, angel ngelalekna. Cah lanang kuwe gampang tresna, gampang ngelalekna."
-      },
-      {
-         "id":4,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Cieee sing arep malem mingguan neng ngumah bae tapi wis rapi.. #mubah"
-      },
-      {
-         "id":5,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Dina jemuah semoga nggawa berkah, ilang susah ati bungah."
-      },
-      {
-         "id":6,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Esuk esuk kuwe mikire sing apik apik bae ben tentrem atine. Nek mikire elek terus, kapan bahagiane?"
-      },
-      {
-         "id":7,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Fans Barcelona kepriwe kabare? Ngising lancar?!Gantenge secukupe bae lah, kelewihen mbok malik dadi srigala."
-      },
-      {
-         "id":8,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Hawane panas pisan.. Rasane kaya krungu kabar mantan mbojo.. nyemplung kedung."
-      },
-      {
-         "id":9,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Hubungan lanang karo wadon kuwe dijenengi workshop. Sing lanang tugas nyambut gawe , sing wadon belanja ."
-      },
-      {
-         "id":10,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Jenenge wong urip ya mesti ana masalah,wong wis ora urip bae masalahe cokan urung rampung."
-      },
-      {
-         "id":11,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Jere sih, nyong kuwe ganteng. Tapi sayang jarang warase. |Lah, genah gemblunge kuwe sing marai ganteng.. #bangga"
-      },
-      {
-         "id":12,
-         "nama_cat":"Status Lucu Jawa",
-         "deskripsi":"Jomblo kuwe kudu kreatif, senajan ora duwe pacar tetep bisa malem mingguan. #karopacarewong"
-      }
-   ]
+"redirect" : {
+
+"HOMEURL" : "file:///android_asset/html/index.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Server Ready . . . ",
+
+
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "UNITY",
+"PENGATURAN_IKLAN_inter" : "UNITY",
+"PENGATURAN_IKLAN_native" : "",
+
+"INTER_COUNT" : 4,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
+
+
+"STARAPPID" : "204464541",
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "",
+
+"hpk_alien" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "Bank Jenius",
+"HPK_ADMOB3" : "Simpati",
+"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB5" : "Donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "4253959",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
+
+"Button_Start" : "START",
+"Button_Share" : "SHARE TO FRIEND",
+"Button_Rating" : "RATING NOW",
+
+
+"Exit_Popup_Dialog" : "Biar kita tambah semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Rate_Button" : "Rate 5 Stars",
+"Later_Button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Download Yuk Sekarang",
+"More_Button" : "Share Via WhatsApp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.budiluckkatakatalucubuatstatusupdatestatus"
+
+  }
 }
