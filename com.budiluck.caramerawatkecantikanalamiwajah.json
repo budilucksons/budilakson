@@ -10,10 +10,10 @@
 
 	
 	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_inter": "5",
+	"pengaturan_iklan_native": "5",
 	
-    "inter_count" : 8,
+    "inter_count" : 2,
 
     "enable_strap" : true,
     "enable_strap_Splah" : true,
@@ -49,12 +49,12 @@
 	
 	"unity_banner_id" : "banner",
 	"unity_inters_id" : "interstitial",
-	"unity_id" : "4045251",
-	"unity_test" : "true",
+	"unity_id" : "4265009",
+	"unity_test" : "false",
 	
 	
-	"applovin_banner_id" : "71f5faf4df08917c",
-	"applovin_inters_id" : "4711e1718612d7dc",
+	"applovin_banner_id" : "",
+	"applovin_inters_id" : "",
 
     
     "exit_popup_dialog" : "Mohon Bantu kami dengan rating bingtang 5 ya :)",
