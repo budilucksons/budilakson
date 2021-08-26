@@ -4,9 +4,9 @@
     {
       "pengaturan_iklan" : "1",
       "interval_intertitial": 4,
-      "intertitial_admob":"",
+      "intertitial_admob":"ca-app-pub-0000000000000000/0000000000",
       "native_admob":"ca-app-pub-7691534248804171/4620783351",
-      "openads":"",
+      "openads":"ca-app-pub-0000000000000000/0000000000",
       "status":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.budiluck.ringtonelucubahasajawanadaderingjawa",
       "startappid":"204464541",
