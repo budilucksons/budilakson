@@ -2,17 +2,17 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "1",
-      "interval_intertitial": 4,
+      "pengaturan_iklan" : "5",
+      "interval_intertitial": 2,
       "intertitial_admob":"",
-      "native_admob":"ca-app-pub-7691534248804171/5260460492",
+      "native_admob":"",
       "openads":"",
       "status":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.budiluck.ringtonelucunadaderingunikdanlucu",
       "startappid":"204464541",
       "mopub_banner":"",
       "mopub_inter":"",
-      "unityID":"204434640",
+      "unityID":"4253953",
       "unity_inter":"interstitial",
       "unity_banner":"banner",
       "fan_inter":"908581545491412_993016418391510",
